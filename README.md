@@ -6,7 +6,7 @@ A curated list of resources that can be helpful for you in your journey on build
 - [Getting Started](https://github.com/Arun-kc/discord-bot-resources#Getting-Started)
 - [Tutorials](https://github.com/Arun-kc/discord-bot-resources#Tutorials)
 - [APIs](https://github.com/Arun-kc/discord-bot-resources#APIs)
-- [NPM Packages](https://github.com/Arun-kc/novicebot#NPM-Packages)
+- [NPM Packages](https://github.com/Arun-kc/discord-bot-resources#NPM-Packages)
 
 ## Getting Started
 
