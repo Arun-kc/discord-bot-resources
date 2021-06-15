@@ -3,10 +3,10 @@
 A curated list of resources that can be helpful for you in your journey on building a discord bot
 
 ## Table of Contents
-- [Getting Started](https://github.com/Arun-kc/discord-bot-resources#Getting-Started)
+- [Getting Started](https://github.com/Arun-kc/discord-bot-resources#getting-started)
 - [Tutorials](https://github.com/Arun-kc/discord-bot-resources#Tutorials)
 - [APIs](https://github.com/Arun-kc/discord-bot-resources#APIs)
-- [NPM Packages](https://github.com/Arun-kc/discord-bot-resources#NPM-Packages)
+- [NPM Packages](https://github.com/Arun-kc/discord-bot-resources#npm-packages)
 
 ## Getting Started
 
